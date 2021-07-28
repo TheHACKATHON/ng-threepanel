@@ -1,1 +1,1 @@
-# ng-threepanel
+# NgThreepanel
